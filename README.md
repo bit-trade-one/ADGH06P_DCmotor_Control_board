@@ -13,17 +13,17 @@ PICマイコンを搭載することで高分解能PWM制御が可能となり
 
 ## 製品仕様
 
-【対応OS】Raspbian
-【対応機種】Raspberry Pi Model B+／Raspberry Pi 2 Model B／Raspberry Pi 3 Model B
-【電源】Raspberry Piより給電
-【モータ接続コネクタ】2点
-【スイッチ点数】1点
-【LED出力】1点
-【本体寸法】W56×D65×H22mm（突起部除く）
-【本体重量】約22g
-【動作環境】 温度0～45℃、湿度10～60％(結露なきこと）
-【組立済み付属品】部品表1部 保証書1部 1X6L型ピンヘッダ　1個　車台2枚 電池BOX 1個ネジ類（Raspberry Pi本体は付属しません）
-【リモコンカー製作用別途購入パーツ（別売り）】
+【対応OS】Raspbian  
+【対応機種】Raspberry Pi Model B+／Raspberry Pi 2 Model B／Raspberry Pi 3 Model B  
+【電源】Raspberry Piより給電  
+【モータ接続コネクタ】2点  
+【スイッチ点数】1点  
+【LED出力】1点  
+【本体寸法】W56×D65×H22mm（突起部除く）  
+【本体重量】約22g  
+【動作環境】 温度0～45℃、湿度10～60％(結露なきこと）  
+【組立済み付属品】部品表1部 保証書1部 1X6L型ピンヘッダ　1個　車台2枚 電池BOX 1個ネジ類（Raspberry Pi本体は付属しません）  
+【リモコンカー製作用別途購入パーツ（別売り）】  
  - Raspberry Pi本体
  - Raspberry Pi標準カメラ
  - 単3ニッケル水素電池2本
